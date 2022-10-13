@@ -1,6 +1,6 @@
 - 👋 Hi, I’m cynthia Nosiri
-- 👀 I’m interested in software/frontend developement
-- 🌱 I’m currently learning reactJS
+- 👀 I’m interested in Data Analysis, and optimization
+- 🌱 I’m currently learning and conducting research
 - 📫 How to reach me: cynthianosiri8@gmail.com
 
 <!---
