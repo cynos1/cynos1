@@ -1,5 +1,5 @@
 - 👋 Hi, I’m cynthia Nosiri
-- 👀 I’m interested in Data Analysis, and optimization
+- 👀 I’m interested in Data Analysis, Machine Learning and optimization
 - 🌱 I’m currently learning and conducting research
 - 📫 How to reach me: cynthianosiri8@gmail.com
 
