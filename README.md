@@ -71,18 +71,21 @@ The system combines:
 
 ## 📚 Publications
 
-### Invisible Risks: Evaluating LLM Safety Disparities Across Dialects and Low-Resource Languages
+Selected publications:
 
-**2026 IEEE 5th International Conference on Computing and Machine Intelligence (ICMI)**
+- **Invisible Risks: Evaluating LLM Safety Disparities Across Dialects and Low-Resource Languages**  
+  IEEE 5th International Conference on Computing and Machine Intelligence (ICMI), 2026
 
-This work examines disparities in LLM safety behavior across dialects and lower-resource language varieties, including differences in refusal and helpfulness behavior.
+- **Refusing Fairness: A Temporal Audit of Dialect Bias in Modern Language Models**  
+  IEEE 5th International Conference on Computing and Machine Intelligence (ICMI), 2026
 
-**Authors:** Cynthia Nosiri, Emmanuel Masa-Ibi, Hashmath Fathima, Binisa Giri, Kofi Nyarko
+- **A Human-in-the-Loop Framework for Facial Perceptual Image Quality: Phase-1 Pilot**  
+  IEEE 5th International Conference on Computing and Machine Intelligence (ICMI), 2026
 
-**DOI:** 10.1109/ICMI68585.2026.11539808
+- **Digitizing a Smoking Intervention for Underserved Populations: The Cease Today Smoking Cessation Program**  
+  American Public Health Association (APHA), 2020
 
-📖 [Google Scholar](https://scholar.google.com/citations?user=iUxLa-4AAAAJ&hl=en)
-
+📖 [View my complete publication record on Google Scholar](https://scholar.google.com/citations?user=iUxLa-4AAAAJ&hl=en)
 ---
 
 ## 🧠 Research Interests
