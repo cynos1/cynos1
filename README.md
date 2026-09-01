@@ -166,5 +166,5 @@ I am particularly interested in moving beyond headline accuracy numbers to under
 
 
 ## Let's Connect and Collaborate
-I'm always open to collaborations, discussions, and learning opportunities. Whether you have a project idea, research proposal, or just want to chat about AI and data science, don't hesitate to get in touch! Let's work together to explore the exciting possibilities of AI safety.
+I'm always open to collaborations, discussions, and learning opportunities. Whether you have a project idea, or research proposal, don't hesitate to get in touch! Let's work together to explore the exciting possibilities of AI safety.
 
